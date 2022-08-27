@@ -1,0 +1,75 @@
+{
+    "teams": [
+        {
+            "players": [
+                {
+                    "player adv": 0,
+                    "team score": 1,
+                    "player games": 1,
+                    "year": 1999,
+                    "name": "player1",
+                    "player wins": 1,
+                    "player score": 1,
+                    "team games": 1,
+                    "team wins": 1,
+                    "team": "van"
+                },
+                {
+                    "player adv": 0,
+                    "team score": 1,
+                    "player games": 1,
+                    "year": 1999,
+                    "name": "player2",
+                    "player wins": 1,
+                    "player score": 1,
+                    "team games": 1,
+                    "team wins": 1,
+                    "team": "van"
+                }
+            ],
+            "name": "team1"
+        },
+        {
+            "players": [
+                {
+                    "player adv": 0,
+                    "team score": 1,
+                    "player games": 1,
+                    "year": 1999,
+                    "name": "player2",
+                    "player wins": 1,
+                    "player score": 1,
+                    "team games": 1,
+                    "team wins": 1,
+                    "team": "van"
+                },
+                {
+                    "player adv": 0,
+                    "team score": 1,
+                    "player games": 1,
+                    "year": 1999,
+                    "name": "player1",
+                    "player wins": 1,
+                    "player score": 1,
+                    "team games": 1,
+                    "team wins": 1,
+                    "team": "van"
+                },
+                {
+                    "player adv": 0,
+                    "team score": 1,
+                    "player games": 1,
+                    "year": 1999,
+                    "name": "player2",
+                    "player wins": 1,
+                    "player score": 1,
+                    "team games": 1,
+                    "team wins": 1,
+                    "team": "van"
+                }
+            ],
+            "name": "team2"
+        }
+    ],
+    "name": "List of Teams"
+}
